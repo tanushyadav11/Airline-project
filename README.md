@@ -1,2 +1,2 @@
 # Airline-project
-This project is about the satisfaction level of all the passengers who were travelling with the airline.
+This project analyzes airline operations data to uncover insights related to flight delays, airline performance, and time-based trends. Using Python libraries, the dataset was cleaned, processed, and explored to identify key patterns affecting operational efficiency. Tools used: Python, Pandas, NumPy, Matplotlib, Seaborn
